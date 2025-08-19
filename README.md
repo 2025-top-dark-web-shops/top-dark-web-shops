@@ -123,4 +123,6 @@ Darknet markets offer a realm for anonymous transactions. By following these sec
 
 Please support by adding stars to this repo.
 
-Update:  13 August
+
+
+Update:  08/19/2025
